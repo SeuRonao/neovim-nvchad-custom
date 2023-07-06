@@ -37,6 +37,7 @@ local plugins = {
         -- LSP
         "lua-language-server",
         "pyright",
+        "texlab",
         -- Linters
         "pylint",
         "vale",
