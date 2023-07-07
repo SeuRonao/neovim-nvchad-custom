@@ -9,7 +9,9 @@ local sources = {
   formatting.isort.with {
     extra_args = { "--profile black" },
   },
+  formatting.latexindent,
   lint.pylint,
+  lint.chktex,
 }
 
 null_ls.setup {

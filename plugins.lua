@@ -40,7 +40,6 @@ local plugins = {
         "texlab",
         -- Linters
         "pylint",
-        "vale",
         -- Formaters
         "stylua",
         "black",
